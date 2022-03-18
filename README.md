@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Guilherme</h1>
 
-<!--
-**guilhermemmp/guilhermemmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Estudante de Desenvolvimento Web
 
-Here are some ideas to get you started:
+- 🔥 Aprendendo **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Entre em contato comigo [guilhermemmpinheiro@hotmail.com](mailto:guilhermemmpinheiro@hotmail.com)
+
+- 💬 Me pergunte sobre **HTML, CSS, SQL**
+
+## 🛠 Tecnologias que uso
+
+[![My Techs](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
