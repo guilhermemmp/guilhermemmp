@@ -1,4 +1,4 @@
-<h1 align="center">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Guilherme</h1>
+<h1 align="center">Oi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Guilherme</h1>
 
 - 👨‍💻 Estudante de Desenvolvimento Web
 
