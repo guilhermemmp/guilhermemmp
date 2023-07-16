@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Guilherme</h1>
+# Oi 👋, me chamo Guilherme
 
 - 👨‍💻 Estudante de Desenvolvimento Web
 
