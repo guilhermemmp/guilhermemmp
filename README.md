@@ -6,13 +6,13 @@
 
 - 📧 Entre em contato comigo [guilhermemmpinheiro@hotmail.com](mailto:guilhermemmpinheiro@hotmail.com)
 
-- 💬 Me pergunte sobre **HTML, CSS, SQL**
+- 💬 Me pergunte sobre **HTML, CSS, mySQL e PHP**
 
 <br>
 
 ## 🛠 Tecnologias que uso
 
-[![My Techs](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
+[![My Techs](https://skillicons.dev/icons?i=html,css,mysql,php)](https://skillicons.dev)
 
 <br>
 
