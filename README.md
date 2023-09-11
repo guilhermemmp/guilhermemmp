@@ -1,4 +1,6 @@
-# Oi 👋, me chamo Guilherme
+<p align="center">
+  <img src="./assets/hello.gif">
+</p>
 
 - 👨‍💻 Estudante de Desenvolvimento Web
 
