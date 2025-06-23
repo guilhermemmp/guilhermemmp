@@ -19,9 +19,9 @@
 @@I'm a lover of technology and games@@
 
 + Living in Rio de Janeiro, Brazil
-- 20 years old 
-! Studying NodeJS and some other things
-# Interested in Java, Python and the infinite monkey theorem
+- 21 years old 
+! Studying Java, Spring and some other things
+# Interested in Python, games and the infinite monkey theorem
 ```
 
 ### 🛠 **My Tools:**
