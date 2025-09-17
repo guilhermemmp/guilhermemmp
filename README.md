@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21ljmsey5jssz5to55pejopuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ljmsey5jssz5to55pejopuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
-
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/guilhermemmp">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
